@@ -90,12 +90,4 @@ To run this project locally, follow these steps:
 - Redux (for state management)
 
 
-## Notes
 
-Feel free to fork this repository and make any modifications or improvements. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
----
-
-**Developer**: Dipanshu Verma
-
-**Contact**: [vermadipanshu444@gmail.com](mailto:vermadipanshu444@gmail.com)
